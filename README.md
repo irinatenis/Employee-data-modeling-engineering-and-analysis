@@ -4,7 +4,9 @@
 - import the CSV files into a SQL database
 - answer questions about the data
 ## **Skills**: 
-- data modeling: creating an Entity Relationship Diagram of the tables
+- data modeling: creating an Entity Relationship Diagram of the table
+  ![image](https://github.com/irinatenis/Employee-data-modeling-engineering-and-analysis/assets/120978502/77460dbd-0a74-4f51-907e-e4f8e1e292e7)
+
 - data engineering:creating a table schema for each of the six CSV files specifying data types, primary keys, foreign keys, and other constraints
 - data analysis: querying single and multiple tables
 ## **Tools**: 
