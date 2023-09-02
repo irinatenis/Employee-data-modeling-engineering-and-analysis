@@ -14,4 +14,4 @@
   
   ![image](https://github.com/irinatenis/Employee-data-modeling-engineering-and-analysis/assets/120978502/044e676d-859d-4e3f-b4fb-5727f5071acd)
 ## **Tools**: 
-SQL, Postgress, https://app.quickdatabasediagrams.com/ 
+SQL, Postgres, https://app.quickdatabasediagrams.com/ 
