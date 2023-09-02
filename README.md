@@ -7,6 +7,9 @@
 - data modeling: creating an Entity Relationship Diagram of the table
   ![image](https://github.com/irinatenis/Employee-data-modeling-engineering-and-analysis/assets/120978502/77460dbd-0a74-4f51-907e-e4f8e1e292e7)
 - data engineering:creating a table schema for each of the six CSV files specifying data types, primary keys, foreign keys, and other constraints
+  
+![image](https://github.com/irinatenis/Employee-data-modeling-engineering-and-analysis/assets/120978502/904197d2-3764-4852-918b-da9a1c283c2c)
+
 - data analysis: querying single and multiple tables
   ![image](https://github.com/irinatenis/Employee-data-modeling-engineering-and-analysis/assets/120978502/044e676d-859d-4e3f-b4fb-5727f5071acd)
 ## **Tools**: 
